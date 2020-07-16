@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello! Thanks for stopping by 👋
+___
+#### Stuff about me!
+- 🏫 B.S. + M.Eng. in ECE + CS @ <a href="https://www.cornell.edu">Cornell University</a>
+- 💻 Development in Node, React, Go and Java.
+- 🛠 Interests: Distributed Systems, Networking, Databases, Information Theory
+- ✉️ Reach me @ Twitter:<a href=" https://twitter.com/Thakurishaan579"> Thakurishaan579</a>
+- 💬 Love to chat about Movies, Food, Hiking, Wristwatches
+- 😎 Enjoy Tennis, Swimming, Hiking, Rock Climbing and Cycling
+- ⚡ Fun fact: I have watched the Office 10 times.
+
 
 <!--
 **ishaanthakur/ishaanthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
