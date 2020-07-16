@@ -1,6 +1,6 @@
 ### Hello! Thanks for stopping by 👋
 ___
-#### Stuff about me!
+#### A little bit about me!
 - 🏫 B.S. + M.Eng. in ECE + CS @ <a href="https://www.cornell.edu">Cornell University</a>
 - 💻 Development in Node, React, Go and Java
 - 🛠 Interests: Distributed Systems, Networking, Databases, Information Theory
