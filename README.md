@@ -7,7 +7,6 @@ ___
 - ✉️ Reach me @ Twitter:<a href=" https://twitter.com/Thakurishaan579"> Thakurishaan579</a>
 - 💬 Love to chat about Movies, Food, Hiking, Wristwatches
 - 😎 Enjoy Tennis, Swimming, Hiking, Rock Climbing and Cycling
-- ⚡ Fun fact: I have watched the Office 10 times
 
 
 <!--
