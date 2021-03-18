@@ -2,7 +2,7 @@
 ___
 #### A little bit about me!
 
-- 🏫  B.S. + M.Eng. in ECE + CS @ <a href="https://www.cornell.edu">Cornell University</a>
+- 🏫  &nbsp; B.S. + M.Eng. in ECE + CS @ <a href="https://www.cornell.edu">Cornell University</a>
 - 💻  Development in Node, React, Go and Java
 - 🛠  Interests: Distributed Systems, Networking, Databases, Information Theory
 - ✉️   Reach me @ Twitter:<a href=" https://twitter.com/Thakurishaan579"> Thakurishaan579</a>
