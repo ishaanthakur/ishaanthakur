@@ -1,3 +1,5 @@
+# :man_technologist: Ishaan Thakur
+
 ### Hello! Thanks for stopping by 👋
 ___
 #### A little bit about me!
@@ -28,3 +30,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ishaanthakur.ishaanthakur)
+<br><br>
+⭐ From [Ishaan Thakur](https://github.com/ishaanthakur)
